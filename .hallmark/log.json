@@ -1,0 +1,48 @@
+[
+ {
+  "shape": "interactive index",
+  "theme": "almanac",
+  "axes": "light/grotesk-sans/chromatic-red",
+  "hero": "index",
+  "nav": "clean masthead",
+  "footer": "quiet colophon",
+  "imagery": "generated portrait",
+  "photos": [],
+  "entry": "full redesign update: whiteboard material",
+  "fingerprint": "index-whiteboard-profile-map",
+  "sections": [
+   "profile map",
+   "topic detail"
+  ],
+  "signature": "male teacher portrait at the center of six connected topics",
+  "waived": [],
+  "prompt": "Korean teacher and researcher profile on a clean investigation-style whiteboard",
+  "mode": "redesign",
+  "depth": "full",
+  "scope": "page",
+  "date": "2026-11-10"
+ },
+ {
+  "shape": "interactive index",
+  "theme": "almanac",
+  "axes": "mid/grotesk-sans/chalk-green",
+  "hero": "index",
+  "nav": "chalkboard masthead",
+  "footer": "quiet colophon",
+  "imagery": "generated portrait",
+  "photos": [],
+  "entry": "full page redesign",
+  "fingerprint": "index-chalkboard-profile-map",
+  "sections": [
+   "profile map",
+   "topic detail"
+  ],
+  "signature": "male teacher portrait at the center of six connected topics",
+  "waived": [],
+  "prompt": "Korean teacher and researcher profile as a one-screen interactive chalkboard",
+  "mode": "redesign",
+  "depth": "full",
+  "scope": "page",
+  "date": "2026-11-10"
+ }
+]
